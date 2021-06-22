@@ -1,8 +1,8 @@
-function submitPets(){
-
+function submitChildren(){
+    location.href="pets.html";
 }
 
-function submitChildren(){
+function submitPets(){
 
 }
 
@@ -11,5 +11,5 @@ function submitClose(){
 }
 
 function submitRestart(){
-    
+
 }

@@ -1,10 +1,25 @@
-.button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
+  .button {
+    position: absolute;
+    width: 206px;
+    height: 56px;
+    left: 104px;
+    top: 606px;
+    
+    background: #173B48;
+    border-radius: 8px;
+  }
+
+  body {
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+  }
+
+  #rectangle{
+    position: absolute;
+    width: 353px;
+    height: 540px;
+    left: 30px;
+    top: 178px;
+
+    background: #E6EFE8;
+    border-radius: 8px;
   }
